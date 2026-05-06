@@ -1,5 +1,5 @@
 # CSCRF
-Project Overview
+Project Overview:
 This repository hosts the first-of-its-kind technical crosswalk between the SEBI Cybersecurity and Cyber Resilience Framework (CSCRF) and the CIS Critical Security Controls (v8.1).
 
 In the wake of the 2024-2025 regulatory updates in the Indian financial sector, organizations are facing a "translation gap" between high-level regulatory mandates and actionable technical controls. 
